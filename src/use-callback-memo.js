@@ -87,5 +87,4 @@ const PlanetInfo = ({id}) => {
 };  
 
 
-ReactDOM.render(<App />,
-    document.getElementById('root'));
+ 
