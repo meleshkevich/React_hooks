@@ -16,7 +16,4 @@ const Child = () => {
     return <div>{value}</div>; 
 };
 
-ReactDOM.render(
-    <App />,
-    document.getElementById('root')
-  );
+ 
